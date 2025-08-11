@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture"	"models\weapons\c_items\c_ubersaw_blu"
+	"$basetexture"	"models\weapons\v_bottle\v_bottle_blue.vtf"
 	
 	"$phong" "1"
 	"$phongexponent" "25"
@@ -17,7 +17,9 @@
 	"$rimlightexponent" "20"				
 	"$rimlightboost" ".25"
 
-		
+	"$selfillum" "1"
+	"$selfillumtint" "[.2 .4 1]"
+	
 	// Cloaking
 	"$cloakPassEnabled" "1"
 	"Proxies"
