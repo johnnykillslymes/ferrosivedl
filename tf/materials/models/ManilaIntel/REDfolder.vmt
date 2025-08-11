@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\ManilaIntel\REDfolder"
+	"$bumpmap" "models\ManilaIntel\Folder_norm"
+}
